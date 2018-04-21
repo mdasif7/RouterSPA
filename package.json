@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rafrex/spa-github-pages.git"
+    "url": "git+https://github.com/mdasif7/RouterSPA"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
+  "author": "Asif",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.6.0",
